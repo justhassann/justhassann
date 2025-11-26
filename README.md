@@ -8,7 +8,7 @@
   
   <p>
     <b>Building the next generation of Secure AI Agents & Enterprise Automations.</b><br>
-    Based in Karachi, Pakistan | Operating Globally (US/UK/AUS)
+    Based in Islamabad, Pakistan | Operating Globally (US/UK/AUS)
   </p>
 
   <a href="https://www.linkedin.com/in/justhassan/">
